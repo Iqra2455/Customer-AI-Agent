@@ -1,6 +1,4 @@
-﻿# Customer AI Agent
-
- # 🤖 AI Customer Support Agent
+﻿ # 🤖 AI Customer Support Agent
 
 A lightweight, responsive, and intelligent AI Customer Support Agent built with **Python**, **Streamlit**, and powered by **Google Gemini API** (`gemini-2.5-flash`). 
 
